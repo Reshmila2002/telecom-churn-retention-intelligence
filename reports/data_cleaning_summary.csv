@@ -1,0 +1,7 @@
+Metric,Raw Dataset,Cleaned Dataset
+Total Records,3150,3150.0
+Total Columns,14,16.0
+Missing Values,0,0.0
+Repeated Source Records,300,300.0
+Unique Record IDs,Not Available,3150.0
+Churn Rate (%),15.71,15.71

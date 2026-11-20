@@ -1,0 +1,11 @@
+Validation Check,Result
+Original record count preserved,PASS
+Expected number of columns,PASS
+Unique column names,PASS
+No missing values,PASS
+Unique record identifiers,PASS
+Valid categorical values,PASS
+Valid observed charge categories,PASS
+Valid numerical values,PASS
+Finite numerical values,PASS
+Valid duplicate indicator,PASS
